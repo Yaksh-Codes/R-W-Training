@@ -559,5 +559,3 @@ The **Data Transformer** project demonstrates practical SQL implementation for r
 By working with customer, order, and employee datasets, the project covers essential SQL concepts applicable to **Data Analyst, Data Scientist, Business Analyst, and Database-related roles**.
 
 ---
-
-⭐ **If you find this project useful, consider giving the repository a star!**
