@@ -557,5 +557,4 @@ Business Analytics
 The **Data Transformer** project demonstrates practical SQL implementation for relational data management, transformation, and analysis.
 
 By working with customer, order, and employee datasets, the project covers essential SQL concepts applicable to **Data Analyst, Data Scientist, Business Analyst, and Database-related roles**.
-
 ---
