@@ -18,13 +18,13 @@
 ### Interactive Dashboard
 Filter by **Region**, **Category** and **date range** — KPI cards and charts recalculate instantly.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshot/dashboard.png)
 
 ### Executive Charts — trends, products, categories
-![Executive Charts – Part 1](screenshots/executive-charts-1.png)
+![Executive Charts – Part 1](Screenshot/executive-charts-1.png)
 
 ### Executive Charts — regions, payments, customers
-![Executive Charts – Part 2](screenshots/executive-charts-2.png)
+![Executive Charts – Part 2](Screenshot/executive-charts-2.png)
 
 ---
 
