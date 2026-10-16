@@ -82,22 +82,22 @@ Example of one stored student record:
 ## 📸 Demo
 
 ### 1️⃣ Add Student
-![Add Student](screenshots/1__Add_Student_Data.png)
+![Add Student](1.Add_Student_Data.png)
 
 ### 2️⃣ Display All Students
-![Display All Students](screenshots/2__Display_All_Students.png)
+![Display All Students](2.Display_All_Students.png)
 
 ### 3️⃣ Update Student Details
-![Update Student](screenshots/3__Update_Student_Details.png)
+![Update Student](3.Update_Student_Details.png)
 
 ### 4️⃣ Delete Student
-![Delete Student](screenshots/4__Delete_Students_Details.png)
+![Delete Student](4.Delete_Students_Details.png)
 
 ### 5️⃣ Display Subjects Offered
-![Subjects Offered](screenshots/5__Display_Subjects_Offered.png)
+![Subjects Offered](5.Display_Subjects_Offered.png)
 
 ### 6️⃣ Exit
-![Exit](screenshots/6__Exit.png)
+![Exit](6.Exit.png)
 
 ---
 
@@ -199,14 +199,14 @@ Subjects     : Maths, Data Analysis, Data Science, Excel, Python
 ```
 collection-manipulator/
 │
-├── PR__3_Collection_Manipulator.py    # Main program
-├── screenshots/
-│   ├── 1__Add_Student_Data.png
-│   ├── 2__Display_All_Students.png
-│   ├── 3__Update_Student_Details.png
-│   ├── 4__Delete_Students_Details.png
-│   ├── 5__Display_Subjects_Offered.png
-│   └── 6__Exit.png
+├── PR__3_Collection_Manipulator.py 
+│
+├── 1__Add_Student_Data.png
+├── 2__Display_All_Students.png
+├── 3__Update_Student_Details.png
+├── 4__Delete_Students_Details.png
+├── 5__Display_Subjects_Offered.png
+├── 6__Exit.png
 └── README.md
 ```
 
@@ -251,7 +251,7 @@ collection-manipulator/
 
 **Yaksh Patel**
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@Yaksh-Codes]([https://github.com/your-username](https://github.com/Yaksh-Codes).
 
 ---
 
