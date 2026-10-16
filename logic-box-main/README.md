@@ -171,11 +171,11 @@ Thank You! Program Closed.
 ```
 logic-box/
 │
-├── PR_2_Logic_Box.py      # Main program
-├── screenshots/
-│   ├── 1__Generate_Patterns.png
-│   ├── 2__Analyze_a_Range_of_Numbers.png
-│   └── 3__Exit.png
+├── PR_2_Logic_Box.py 
+├
+│── 1__Generate_Patterns.png
+│── 2__Analyze_a_Range_of_Numbers.png
+│── 3__Exit.png
 └── README.md
 ```
 
@@ -206,7 +206,7 @@ logic-box/
 
 **Yaksh Patel**
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@Yaksh-Codes](https://github.com/Yaksh-Codes)
 
 ---
 
