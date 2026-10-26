@@ -228,8 +228,8 @@ Manager lookup  =VLOOKUP([@Region],Managers!A2:B5,2,FALSE)
 
 **Yaksh Patel**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- GitHub: [@Yaksh-Codes](https://github.com/Yaksh-Codes)
+- LinkedIn: [@Yaksh19](https://www.linkedin.com/in/Yaksh19)
 
 ---
 
